@@ -1,5 +1,5 @@
 
-#We share here 3 Yara rules related to Mintsloader prepared by our Rverse Engineering Team.
+#We share here 3 Yara rules related to Mintsloader prepared by our Reverse Engineering Team.
 #Dynamic analysis in our Malicious File Detection solution (https://www.orangecyberdefense.com/global/datasheets/malicious-file-detection) embed by default such rules.
 
 rule Window_Trojan_MintsLoader_0 : malware {
